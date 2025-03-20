@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Ciao, sono Lorenzo
 
-<!--
-**LupoArticoblu/LupoArticoblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Sviluppatore Full Stack | 💡 Appassionato di sviluppo web e Hardware
 
-Here are some ideas to get you started:
+🎓 Formazione: Conseguita tramite la Boolean Academy nell'anno 2023
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Competenze:
+    ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+    ![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)  ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)  ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)
+    
+
+📫 Contatti: [LinkedIn](www.linkedin.com/in/Lorenzo-Carelli-LAb) | [Email](lorenzocarelliart@gmail.com)
+
+
