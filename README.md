@@ -33,21 +33,6 @@ Passionate about code, hardware, and building the perfect PC.
 
 > **Nota:** Sto approfondendo AI/ML frameworks (TensorFlow, PyTorch) per i prossimi progetti. 
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <!-- 1️⃣ Statistiche generali -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LupoArticoblu&show_icons=true&theme=radical&hide_border=true&bg_color=0d6efd&title_color=ffffff&icon_color=7fffd4"
-       alt="GitHub Stats" />
-
-  <br/>
-
-  <!-- 2️⃣ Top Languages (layout compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LupoArticoblu&layout=compact&theme=radical&hide_border=true&bg_color=0d6efd&title_color=ffffff&icon_color=7fffd4"
-       alt="Top Languages" />
-</div>
-
-
 
 ## 📫 Get in Touch  
 
