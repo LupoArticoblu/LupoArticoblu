@@ -2,15 +2,6 @@
 
 <div align="center">
 
-<!-- ---------- HERO (parallax‑like) ---------- -->
-<div style="
-    background: linear-gradient(135deg, #0d6efd, #7fffd4);
-    background-attachment: fixed;          /* parallax effect */
-    padding: 60px 20px;
-    color: white;
-    border-radius: 12px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-">
 <h1 style="font-size: 3.6rem; margin: 0;">👋 Ciao, sono **Lorenzo Carelli**</h1>
 <p style="font-size: 1.4rem; margin-top: 12px;">
 Emerging developer &amp; <strong>IA Engineering</strong> student.  
@@ -20,11 +11,17 @@ Passionate about code, hardware, and building the perfect PC.
 
 ---  
 
-## 🚀 About Me  
+## 🚀 About Me
+- 🇮🇹 Italiano
 
-- 🌱 **Studente di IA Engineering** – sto approfondendo machine‑learning, data‑science e le applicazioni AI al software.  
+- 🌱 **Studente di IA Engineering** – sto approfondendo machine‑learning, data‑science e per le AI applicate a software.  
 - 🖥️ **Hardware enthusiast** – adoro smontare, assemblare e ottimizzare PC per il massimo delle prestazioni.  
-- 👨‍💻 **Programmatore emergente** – dal front‑end al back‑end, mi diverte trasformare idee in funzionanti realtà.  
+- 👨‍💻 **Programmatore emergente** – dal front‑end al back‑end, mi diverte trasformare idee in funzionanti realtà.
+
+- 🇬🇧 English
+- 🌱 **IA Engineering Student** – I studing for machine-learning, data-science and IA application.  
+- 🖥️ **Hardware enthusiast** – my passion to assemble and optimizing PCs for the best settings and performance.  
+- 👨‍💻 **Programmatore emergente** – from front‑end to back‑end, I like to transform ideas in real working tools.
 
 ## 🛠️ Tech Stack  
 
@@ -39,10 +36,13 @@ Passionate about code, hardware, and building the perfect PC.
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LupoArticoblu&show_icons=true&theme=radical&hide_border=true&bg_color=0d6efd&title_color=ffffff&icon_color=7fffd4" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LupoArticoblu&show_icons=true&theme=radical&hide_border=true&bg_color=0d6efd&title_color=ffffff&icon_color=7fffd4" alt="GitHub Stats"/>
+
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LupoArticoblu&layout=compact&theme=radical&hide_border=true&bg_color=0d6efd&title_color=ffffff&icon_color=7fffd4" alt="Top Languages"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LupoArticoblu&layout=compact&theme=radical&hide_border=true&bg_color=0d6efd&title_color=ffffff&icon_color=7fffd4" alt="Top Languages"/>
 </div>
+
 
 ## 📫 Get in Touch  
 
